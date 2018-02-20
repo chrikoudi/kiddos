@@ -1,0 +1,42 @@
+#searchBar {
+   height: 70px;
+   font-size: 30px;
+}
+
+#go {
+    font-size: 20px;
+    color: rgb(247, 186, 73);
+}
+
+#go:hover {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#space {
+    padding-top: 20vh;
+}
+
+  
+  .title {
+    background: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5) ), url('../../assets/images/landing.jpg');
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: normal;
+  } 
+  
+  p {
+    padding-top: 8%;
+  }
+  
+  .main {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 12%;
+  }

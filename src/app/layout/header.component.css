@@ -1,0 +1,60 @@
+#logo {
+    width: 300px ;
+    height: auto;
+}
+
+
+.navbar {
+    list-style: none;
+    border: none;
+    color: #fff
+}
+
+.signin {
+    margin-left: 80%;
+    vertical-align: center;
+    font-size: 27px;
+    position: absolute;
+}
+
+.signup {
+    margin-left: 86.5%;
+    font-size: 27px;
+    background-color:#33ffff;
+    border-color:#33ffff;
+    position: absolute;
+}
+
+.bigger {
+    font-size: 30px;
+    margin-left:2%;
+}
+
+#email1, #password1 {
+    border: 3px solid #ffc107;
+}
+
+#log {
+    background-color: #ffc107;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+}
+.right {
+    float:right;
+}
+
+.left {
+    float:left;
+}
+
+
+#reg {
+    background-color: #33ffff;
+}
+
+#email2, #password2, #password3, #name, #surname {
+    border: 3px solid #33ffff;
+}
